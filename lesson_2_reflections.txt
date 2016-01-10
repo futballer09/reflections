@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 git starts tracking the directory.  It needs to be done to leverage git in that directory/repository
+
+How can you use the staging area to make sure you have one commit per logical change?
+add each logical change to the staging area.  Then use git diff to compare to my working directory before committing
