@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+1. When working with other developers
+2. When wanting to maintain a backup in the cloud
+3. When wanting to more easily share my code publicly
